@@ -26,7 +26,7 @@ It also benchmarks the performance of distance calculations in these systems wit
 
   ## Project structure
 
-- ## How to Run
+## How to Run
 
 - ### 1. Conversion Accuracy Tests
 
