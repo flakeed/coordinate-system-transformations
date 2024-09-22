@@ -26,12 +26,11 @@ It also benchmarks the performance of distance calculations in these systems wit
 
   ## Project structure
 
-
 - ## How to Run
 
 - ### 1. Conversion Accuracy Tests
 
-  -To verify the accuracy of coordinate conversions:
+  To verify the accuracy of coordinate conversions:
 
   ```bash
   node test/conversion_test.js
@@ -39,7 +38,7 @@ It also benchmarks the performance of distance calculations in these systems wit
 
 - ### 2. Benchmarking Performance
 
-  -To benchmark the performance of distance calculations with a large number of random points:
+  To benchmark the performance of distance calculations with a large number of random points:
 
   ```bash
   node test/benchmark_test.
