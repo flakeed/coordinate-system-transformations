@@ -24,7 +24,7 @@ It also benchmarks the performance of distance calculations in these systems wit
 - **Benchmarking**:
   - Performance benchmarking of distance calculations with a large dataset (configurable).
 
-  ## Project structure
+## Project structure
 
 ## How to Run
 
